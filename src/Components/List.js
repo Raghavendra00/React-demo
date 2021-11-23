@@ -1,7 +1,5 @@
 const List = ({data }) => {
 
-    
-    
     return (
         <div>
             <h1>Lists</h1>
@@ -17,5 +15,4 @@ const List = ({data }) => {
         </div>
     )
 }
-
 export default List
